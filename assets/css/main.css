@@ -2630,10 +2630,8 @@ input, select, textarea {
 		width: 50%;
 		height: 30vh;
 		display:flex;
-		justify-content: left;
-		align-items: center;
+
 		margin-bottom: 100px;
-		
 	}
 	.imagee img{
 
