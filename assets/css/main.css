@@ -2631,12 +2631,11 @@ input, select, textarea {
 		height: 30vh;
 		display:flex;
 
-		margin-bottom: 100px;
 	}
 	.imagee img{
 
-		height: 350px;
-		width: 350px;
+		height: 290px;
+		width: 290px;
 		border-radius: 50%;
 		border: 10px solid;
 		background-color: #5052b5;
